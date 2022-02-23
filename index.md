@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+# Pale Crusade
 
-You can use the [editor on GitHub](https://github.com/Pale-Crusader/Pale_Crusade_Minecraft_Mod/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pale-Crusader/Pale_Crusade_Minecraft_Mod/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This is a Minecraft Mod created by Matthew Adam Stewart, also known by the Minecraft username Plae_Crusader. The vision of this Mod is to integrate the possibilities Adventure Mode gameplay into a Surival World. Being about to enhanse a Beacon to become the heart of a base protected by placing players into Adventure Mode to make traps, puzzles, locks, imprisonment and doors meaningful beyond an honor system to not break blocks. It gate keeps the ability these awesome complex behind quests and difficult to craft items to extend the sense of progression. This mod also gives easy access for tools which allow engaging with a survival world while in Adventure Mode in a fun and challanging way to players whom have not acquired a wealth of resouces. It is recommended this mod be played without access to Teleport commands, especially those which allow you to teleport to "home" coordinates because that completely breaks the balance of this mod.
